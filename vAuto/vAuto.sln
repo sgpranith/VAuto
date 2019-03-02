@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vAuto", "vAuto\vAuto.csproj", "{EBB44B86-EA4E-4130-9584-A6DE7FF4A013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vAutoTest", "vAutoTest\vAutoTest.csproj", "{AF3390D0-8CA7-4249-9665-A1E3498901EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBB44B86-EA4E-4130-9584-A6DE7FF4A013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB44B86-EA4E-4130-9584-A6DE7FF4A013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB44B86-EA4E-4130-9584-A6DE7FF4A013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB44B86-EA4E-4130-9584-A6DE7FF4A013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3390D0-8CA7-4249-9665-A1E3498901EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3390D0-8CA7-4249-9665-A1E3498901EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3390D0-8CA7-4249-9665-A1E3498901EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3390D0-8CA7-4249-9665-A1E3498901EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
